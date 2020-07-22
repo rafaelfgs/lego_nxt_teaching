@@ -1,1 +1,2 @@
-# lego_nxt_teaching
+# lego_nxt_modified
+Repository for Lego NXT with modifications
