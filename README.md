@@ -1,2 +1,3 @@
 # lego_nxt_modified
-Repository for Lego NXT with modifications
+
+Repository of Lego NXT with modifications for Mobile Robotic course
